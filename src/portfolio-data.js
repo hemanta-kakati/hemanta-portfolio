@@ -44,9 +44,9 @@ const items = [
     img: reactPixelAspireImage,
     title: "A Graphics Company portfolio site ",
     tech: "React",
-    info: "It uses masonry layouts, animations, react router",
-    url: "https://hk-cart.netlify.app/",
-    repo: "https://github.com/hemanta-kakati/hk-cart",
+    info: "Preloading feature is used along side with masonry layouts, animations, react router",
+    url: "https://pixelaspire.netlify.app/",
+    repo: "https://github.com/hemanta-kakati/pixelaspire",
     tags: ["useState", "context api", "useFetch", "framerjs", "axios"],
   },
 ];
