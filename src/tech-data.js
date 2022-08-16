@@ -9,11 +9,7 @@ const categories = [
   },
   {
     id: 3,
-    name: "HTML & CSS",
-  },
-  {
-    id: 4,
-    name: "Javascript",
+    name: "HTML CSS JS",
   },
 ];
 

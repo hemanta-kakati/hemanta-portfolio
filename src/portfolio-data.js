@@ -2,6 +2,8 @@ import reactAccordionImage from "./images/react-accordion-project.png";
 import reactCartImage from "./images/react-cart.png";
 import reactMealsImage from "./images/react-meals.png";
 import reactPixelAspireImage from "./images/react-pixelaspire.png";
+import htmlCompanyPortfolioImage from "./images/html-company-portfolio.png";
+import htmlDiagnosisImage from "./images/html-diagnosis.png";
 const items = [
   {
     id: 1,
@@ -48,6 +50,26 @@ const items = [
     url: "https://pixelaspire.netlify.app/",
     repo: "https://github.com/hemanta-kakati/pixelaspire",
     tags: ["useState", "context api", "useFetch", "framerjs", "axios"],
+  },
+  {
+    id: 5,
+    img: htmlCompanyPortfolioImage,
+    title: "Portfolio template for a company site",
+    tech: "HTML CSS JS",
+    info: "An html template made with bootstrap, javascript is used for scrolling navbar  using IntersectionObserver and for filter menus",
+    url: "https://hemanta-kakati.github.io/company-portfolio-template/",
+    repo: "https://github.com/hemanta-kakati/company-portfolio-template",
+    tags: ["IntersectionObserver", "html5", "css3", "bootstrap 4"],
+  },
+  {
+    id: 6,
+    img: htmlDiagnosisImage,
+    title: "Template for a diagnosis site project",
+    tech: "HTML CSS JS",
+    info: "bootstrap is used for responsive design",
+    url: "https://hemanta-kakati.github.io/diagnosisProject/",
+    repo: "https://github.com/hemanta-kakati/diagnosisProject",
+    tags: ["html5", "css3", "bootstrap 4"],
   },
 ];
 
